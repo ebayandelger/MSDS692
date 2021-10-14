@@ -1,4 +1,4 @@
-<h1>Sentiment Analysis on Reddit's Dogecoin posts</h1>
+<h1>Sentiment Analysis on Reddit's posts about Dogecoin</h1>
 
 <h3>SUMMARY</h3>
 
