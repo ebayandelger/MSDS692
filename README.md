@@ -14,5 +14,5 @@ Valence Aware Dictionary and sEntiment Reasoner (VADER)</br>
 <h3>STEP 1</h3>
 <p>Created a Reddit instance using PRAW, then got all the data and formatted them using panda's data frame function. Saved 1000 post files to dump.csv file type due to Reddit's policy. Later, I combined them manually before performing sentiment analysis on the data.</p> 
 <h3>STEP 2</h3>
-VADER module was easy to use and within couple of expressions, I was able to visualize the data already. 
+<p>VADER module was easy to use and within couple of expressions, I was able to visualize the data already. Performed a sentiment analysis using Vader's powerful package by typing few commands like ".polarity_scores".</p>
 <h3>STEP 3</h3>
