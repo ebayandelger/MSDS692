@@ -16,3 +16,16 @@ Valence Aware Dictionary and sEntiment Reasoner (VADER)</br>
 <h3>STEP 2</h3>
 <p>VADER module was easy to use and within couple of expressions, I was able to visualize the data already. Performed a sentiment analysis using Vader's powerful package by typing few commands like ".polarity_scores".</p>
 <h3>STEP 3</h3>
+<p>Printed results to do a quick visualizationn:</br>
+</br>
+print(df.label.value_counts())</br>
+print(df.label.value_counts(normalize=True) * 100)</br></br>
+ 1    1679</br>
+ 0     506</br>
+-1     222</br>
+Name: label, dtype: int64</br>
+ 1    69.754882</br>
+ 0    21.022019</br>
+-1     9.223099</br>
+Name: label, dtype: float64</br></br>
+At last, I plotted the data on a graph to provide a better visualization.</p>
