@@ -8,6 +8,6 @@ Financial experts are highly skeptical of dogecoin, as well as other cryptocurre
 <h3>TOOLS & LIBRARIES USED</h3>
 Jupyter Notebook</br>
 The Jupyter Notebook is an open-source web application that allows to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.</br></br>
-The Jupyter Notebook file that contains my python script: Sentiment Analysis.ipnyb</br></br>
+The Jupyter Notebook file that contains my python script: Sentiment.ipynb</br></br>
 The Python Reddit API Wrapper (PRAW)</br>
 Reddit 
