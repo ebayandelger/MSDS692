@@ -12,6 +12,7 @@ PRAW is a python module provides a simple access to Reddit's API that is easy to
 Valence Aware Dictionary and sEntiment Reasoner (VADER)</br>
 <p>VADER is a lexicon and rule-based sentiment analysis tool that is specifically designed and trained for social media posts. VADER uses a combination of A sentiment lexicon is a list of lexical features which are generally labeled according to their semantic orientation as either positive or negative. VADER not only tells about the Positivity and Negativity score but also tells us about how positive or negative a sentiment is.</p>
 <h3>STEP 1</h3>
-<p>Created a Reddit instance using PRAW, then saved 1000 post files to dump.csv file type due to Reddit's policy. Later, I combined them manually before performing sentiment analysis on the data.</p> 
+<p>Created a Reddit instance using PRAW, then got all the data and formatted them using panda's data frame function. Saved 1000 post files to dump.csv file type due to Reddit's policy. Later, I combined them manually before performing sentiment analysis on the data.</p> 
 <h3>STEP 2</h3>
+VADER module was easy to use and within couple of expressions, I was able to visualize the data already. 
 <h3>STEP 3</h3>
